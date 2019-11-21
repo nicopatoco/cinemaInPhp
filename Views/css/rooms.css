@@ -1,0 +1,21 @@
+#buttonRoom {
+    background-color: #4CAF50;
+    color: white;
+    padding: 30px 40px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 40%;
+    align-self: center;
+}
+
+#buttonRoomAdd {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 40%;
+    align-self: center;
+}
